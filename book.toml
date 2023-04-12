@@ -1,0 +1,6 @@
+[book]
+authors = ["Justus Walter-Helk"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Kyuubi-Engine Development Documentation"
