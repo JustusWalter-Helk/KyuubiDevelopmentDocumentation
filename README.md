@@ -1,3 +1,9 @@
+
+
+# COMPLETELY OUTDATED!
+
+Writing docs is pretty boring. And who uses them anyways? (oh no)
+
 # Kyuubi Development Documentation
 ## Documentation for my 2D Game Engine
 
